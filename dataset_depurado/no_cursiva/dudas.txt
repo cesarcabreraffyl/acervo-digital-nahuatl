@@ -1,0 +1,15 @@
+42 - AGN_Tierras_vol39_1ap_exp2_ [f8]_[f9-f11]_[f11v]_[f12-12v]_[12v-13]_[13v-14]
+
+47 - AGN_Tierras_vol54_exp5_[f4o5o219-f4vo5vo219v]_[f5o6o220]_[f5vo6vo220v-6o7o221]_[f7o8o222]
+
+48 - AGN_Tierras_vol55_exp2_[f1o156-f2o157]_[f7o162-f8o7biso163]_[f3o158-f4vo159v]
+
+119 - AGN_Tierras_vol1810_exp1
+
+143 - ENL_Coyoacan_Region_1575_Municipal_Land_Grant
+
+144 - ENL_Coyoacan_Region_1617
+
+145 - ENL_Coyoacan_Region_1621
+
+148 - ENL_Cuernavaca_1559
