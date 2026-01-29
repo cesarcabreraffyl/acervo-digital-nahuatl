@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-02-09T05:11:15.843+01:00</Created>
+        <LastChange>2025-07-03T21:44:08.065+02:00</LastChange>
+        <TranskribusMetadata docId="6787928" pageId="91243888" pageNr="4" tsid="249410119" status="IN_PROGRESS" userId="137399" imgUrl="https://files.transkribus.eu/Get?id=AYTFJWMGMVTOXXFHDQMRDAIA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EAYNZLBYVHXMAYTRIVPUPGMJ" imageId="76119113"/>
+    </Metadata>
+    <Page imageFilename="0004_AGN_Tierras_vol48_exp4_f16o113.jpg" imageWidth="1765" imageHeight="2592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1754682668691" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="437,1446 457,1634 1028,1613 1021,1402"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="497,1585 532,1581 557,1581 589,1582 648,1580 692,1577 715,1574 752,1572 791,1565 835,1564 862,1568 895,1561 925,1559 948,1561 972,1573 1013,1554 1015,1508 996,1504 968,1494 943,1491 916,1480 876,1481 856,1479 765,1500 723,1510 690,1501 657,1510 630,1515 566,1517 525,1521 484,1525"/>
+                <Baseline points="504,1562 530,1557 556,1553 582,1551 608,1550 635,1549 661,1548 687,1546 713,1546 739,1544 766,1545 792,1545 818,1544 844,1543 870,1542 897,1542 923,1542 949,1540 975,1539 1015,1537"/>
+                <TextEquiv>
+                    <Unicode>yzcatqui ynical Ana Tepi</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

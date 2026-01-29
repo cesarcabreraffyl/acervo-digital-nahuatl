@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-02-11T23:19:49.101+01:00</Created>
+        <LastChange>2025-07-29T00:30:48.355+02:00</LastChange>
+        <TranskribusMetadata docId="6860191" pageId="91416652" pageNr="3" tsid="252110746" status="GT" userId="137399" imgUrl="https://files.transkribus.eu/Get?id=IFIZOOQVRPHAPOJCDUPOURMQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OISQUXNXCZEBPCORAODDVKEU" imageId="76261814"/>
+    </Metadata>
+    <Page imageFilename="0003_AGN_Tierras_vol1810_exp1_f4o5o6.jpg" imageWidth="1676" imageHeight="2404">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1754682676327" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="236,91 247,773 1649,749 1658,91"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="368,169 456,163 518,162 581,178 644,144 707,145 770,143 843,156 896,138 959,138 1020,170 1085,138 1148,136 1211,136 1274,134 1337,134 1394,158 1463,130 1526,128 1589,128 1652,130 1652,93 1583,67 1526,91 1463,93 1400,95 1338,81 1274,97 1211,99 1148,99 1085,101 1022,101 960,91 896,101 833,103 770,106 707,108 644,107 599,95 518,107 455,109 373,109"/>
+                <Baseline points="392,134 455,134 518,132 581,132 644,132 707,133 770,131 833,128 896,126 959,126 1022,126 1085,126 1148,124 1211,124 1274,122 1337,122 1400,120 1463,118 1526,116 1589,116 1652,118"/>
+                <TextEquiv>
+                    <Unicode>yanpa ytzticac. no tlapancallo. yoan in itlallo. yoan hetetl </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="374,217 446,220 499,227 572,210 635,214 698,196 761,196 824,196 886,206 950,200 1013,194 1075,210 1138,192 1203,202 1264,190 1327,190 1390,187 1453,187 1516,184 1579,186 1642,186 1642,149 1585,143 1516,147 1453,150 1390,150 1327,153 1264,153 1201,143 1139,142 1077,146 1018,147 950,157 887,157 830,144 761,159 698,159 635,161 572,161 509,152 446,165 374,163"/>
+                <Baseline points="384,192 446,190 509,188 572,186 635,186 698,184 761,184 824,184 887,182 950,182 1013,182 1075,180 1138,180 1201,178 1264,178 1327,178 1390,175 1453,175 1516,172 1579,174 1642,174"/>
+                <TextEquiv>
+                    <Unicode>yn chinanyo. mochi ypan catqui. in pitura. yuan in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="380,261 443,262 507,260 571,257 640,255 699,251 763,251 827,259 891,249 955,251 1019,252 1082,253 1147,265 1210,257 1274,253 1338,249 1376,271 1468,251 1530,238 1594,235 1658,233 1658,194 1594,196 1530,199 1471,186 1402,207 1338,210 1276,204 1210,212 1146,216 1082,214 1025,198 962,205 891,210 827,211 763,212 699,212 635,216 571,218 512,206 444,232 380,222"/>
+                <Baseline points="380,248 443,249 507,247 571,244 635,242 699,238 763,238 827,237 891,236 955,238 1019,239 1082,240 1146,242 1210,238 1274,240 1338,236 1402,233 1466,228 1530,225 1594,222 1658,220"/>
+                <TextEquiv>
+                    <Unicode>machiotl. ynic omoneltilli. in posesion. auh inic ocon </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="384,323 444,319 505,318 566,319 626,317 687,324 746,322 808,317 869,305 919,318 991,305 1243,351 1112,307 1173,307 1233,307 1294,307 1355,305 1415,303 1476,299 1537,301 1598,301 1603,246 1539,249 1477,251 1415,264 1355,266 1294,268 1233,268 1177,253 1116,258 1051,268 992,257 930,266 869,266 808,267 748,267 687,273 639,276 568,261 505,266 444,280 384,284"/>
+                <Baseline points="384,310 444,306 505,305 566,306 626,304 687,299 748,293 808,293 869,292 930,292 991,292 1051,294 1112,294 1173,294 1233,294 1294,294 1355,292 1415,290 1476,286 1537,288 1598,288"/>
+                <TextEquiv>
+                    <Unicode>mochihuilico. posesio. quimoneltililia. quimotlalilia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="364,392 453,373 515,371 606,396 639,371 703,392 763,363 825,359 876,372 960,363 1011,359 1072,360 1142,382 1197,376 1258,361 1322,377 1383,365 1444,357 1506,355 1568,355 1630,355 1630,316 1568,316 1506,316 1450,307 1383,309 1320,306 1258,322 1196,323 1134,323 1072,321 1016,308 949,318 887,318 825,320 763,324 701,326 639,326 577,332 515,332 453,334 378,335"/>
+                <Baseline points="392,362 453,360 515,358 577,358 639,358 701,352 763,350 825,346 887,344 949,344 1011,346 1072,347 1134,349 1196,349 1258,348 1320,346 1382,346 1444,344 1506,342 1568,342 1630,342"/>
+                <TextEquiv>
+                    <Unicode> yn intocatzin. yoan yn infirmatzin. FFecho E mexco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="384,438 446,433 509,431 572,429 610,449 697,425 760,424 807,445 885,418 948,418 1011,416 1073,418 1136,419 1199,418 1261,418 1327,438 1387,417 1449,417 1512,416 1576,429 1647,431 1645,358 1575,378 1512,380 1471,366 1400,369 1324,381 1263,367 1199,382 1131,366 1073,382 1025,360 948,382 885,382 822,384 760,388 709,369 634,392 572,377 509,395 446,397 384,402"/>
+                <Baseline points="384,426 446,421 509,419 572,417 634,416 697,413 760,412 822,408 885,406 948,406 1011,404 1073,406 1136,407 1199,406 1261,406 1324,405 1387,405 1449,405 1512,404 1575,402 1638,400"/>
+                <TextEquiv>
+                    <Unicode> a unze dias del mes de otubre. de mill E quinientos E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="382,488 406,499 434,488 460,488 486,488 513,486 539,486 565,481 586,501 611,505 650,501 670,482 696,480 722,480 748,479 775,478 801,477 827,476 853,476 877,491 917,489 917,433 879,428 853,425 827,440 801,441 775,442 748,443 722,444 696,444 671,436 644,446 617,447 591,448 565,449 539,450 513,450 486,452 460,452 435,443 409,442 382,452"/>
+                <Baseline points="382,476 408,476 434,476 460,476 486,476 513,474 539,474 565,473 591,472 617,471 644,470 670,470 696,468 722,468 748,467 775,466 801,465 827,464 853,464 879,463 906,458"/>
+                <TextEquiv>
+                    <Unicode>chenta. y çinco años</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:7;} abbrev {offset:0; length:3;expansion:Juan;} abbrev {offset:4; length:3;expansion:Martín;}">
+                <Coords points="364,710 415,719 452,692 466,641 518,636 522,707 547,646 578,646 566,590 495,567 482,522 396,502"/>
+                <Baseline points="402,625 468,624 495,624 555,634"/>
+                <TextEquiv>
+                    <Unicode>Juo mIn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:8;} abbrev {offset:0; length:2;expansion:Pedro;}">
+                <Coords points="757,572 731,572 706,574 680,574 654,574 630,587 603,570 585,670 577,570 552,572 552,536 577,534 605,509 641,505 654,538 680,538 706,538 731,536 757,536"/>
+                <Baseline points="552,560 577,558 603,558 629,560 654,562 680,562 706,562 731,560 757,560"/>
+                <TextEquiv>
+                    <Unicode>Po gero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="612,624 640,624 669,624 697,624 725,624 775,629 766,588 725,588 698,572 669,588 640,588 612,588"/>
+                <Baseline points="612,612 640,612 669,612 697,612 725,612 754,612"/>
+                <TextEquiv>
+                    <Unicode>nimo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:10;} abbrev {offset:4; length:3;expansion:Martín;}">
+                <Coords points="942,568 967,567 993,567 1018,568 1033,597 1069,573 1095,577 1120,577 1146,577 1148,541 1121,536 1102,520 1079,518 1044,528 1018,523 994,528 962,526 942,535"/>
+                <Baseline points="942,557 967,556 993,556 1018,557 1044,559 1069,562 1095,566 1120,566 1146,566"/>
+                <TextEquiv>
+                    <Unicode>don mIn her</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="934,625 975,617 1001,618 1026,619 1052,620 1078,620 1090,639 1137,633 1144,586 1120,573 1078,587 1052,587 1012,574 1001,585 975,584 936,575"/>
+                <Baseline points="949,604 975,606 1001,607 1026,608 1052,609 1078,609 1136,616"/>
+                <TextEquiv>
+                    <Unicode>nandez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:12;}">
+                <Coords points="1176,632 1213,630 1278,589 1304,589 1329,588 1354,587 1380,589 1380,488 1354,523 1329,524 1304,525 1314,452 1253,522 1228,523"/>
+                <Baseline points="1228,566 1253,568 1278,568 1304,568 1329,567 1354,566 1380,568"/>
+                <TextEquiv>
+                    <Unicode>Ante mi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:13;} abbrev {offset:0; length:4;expansion:Francisco;} abbrev {offset:5; length:5;expansion:maldonado;}">
+                <Coords points="1363,705 1403,708 1414,615 1530,616 1534,569 1391,523 1365,572"/>
+                <Baseline points="1365,602 1429,601 1523,602"/>
+                <TextEquiv>
+                    <Unicode>Frco maldo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:14;} abbrev {offset:0; length:4;expansion:escribano;}">
+                <Coords points="1424,681 1457,677 1497,676 1501,614 1457,613 1424,617"/>
+                <Baseline points="1424,660 1457,656 1494,656"/>
+                <TextEquiv>
+                    <Unicode>svno</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>
