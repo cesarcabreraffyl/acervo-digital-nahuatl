@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-04-23T23:58:49.289+02:00</Created>
+        <LastChange>2025-05-26T21:15:30.935+02:00</LastChange>
+        <TranskribusMetadata docId="8109911" pageId="95679411" pageNr="3" tsid="245452982" status="GT" userId="137399" imgUrl="https://files.transkribus.eu/Get?id=OSYZOTRCUXBIEKLZZYZKNGII&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UDUOINKBSIHBCNTWDSTYHSES" imageId="80077576"/>
+    </Metadata>
+    <Page imageFilename="0003_AGN_Civil_vol1237_exp5_f2v.jpg" imageWidth="1752" imageHeight="2881">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1754682632289" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="228,168 228,2569 1650,2569 1650,168"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="350,282 412,277 475,270 538,264 601,258 664,251 726,247 789,248 852,244 915,244 969,288 1040,242 1103,244 1166,240 1229,233 1292,232 1354,232 1417,233 1480,236 1543,236 1606,246 1606,216 1561,171 1476,181 1417,203 1354,202 1292,202 1229,162 1166,210 1092,179 1040,212 978,216 915,214 852,214 789,218 799,164 668,202 615,200 534,162 496,168 412,247 350,252"/>
+                <Baseline points="350,272 412,267 475,260 538,254 601,248 664,241 726,237 789,238 852,234 915,234 978,236 1040,232 1103,234 1166,230 1229,223 1292,222 1354,222 1417,223 1480,226 1543,226 1606,236"/>
+                <TextEquiv>
+                    <Unicode>Resjistrado en 9 de febrero de 1701 años</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="368,354 429,357 490,352 524,396 612,342 673,339 734,335 795,331 856,329 922,376 979,328 1040,328 1101,326 1162,328 1223,328 1284,326 1345,326 1406,328 1467,329 1528,338 1590,346 1597,267 1574,257 1449,234 1420,250 1338,262 1284,296 1223,298 1162,298 1101,296 1074,250 1020,257 917,298 870,260 795,301 730,282 673,309 612,312 551,317 490,322 429,327 368,324"/>
+                <Baseline points="368,344 429,347 490,342 551,337 612,332 673,329 734,325 795,321 856,319 917,318 979,318 1040,318 1101,316 1162,318 1223,318 1284,316 1345,316 1406,318 1467,319 1528,328 1590,336"/>
+                <TextEquiv>
+                    <Unicode>en que se dio cumplimiento a las misas y para</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:2;}">
+                <Coords points="885,422 848,420 805,420 763,420 720,423 678,424 636,424 593,426 551,430 508,433 466,436 424,438 424,407 466,405 508,402 551,367 593,395 636,393 713,354 720,392 786,361 814,350 848,389 885,391"/>
+                <Baseline points="424,428 466,426 508,423 551,420 593,416 636,414 678,414 720,413 763,410 805,410 848,410 885,412"/>
+                <TextEquiv>
+                    <Unicode>conste lo firme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="973,515 1106,507 1145,498 1192,470 1219,470 1246,469 1273,468 1300,468 1320,514 1354,470 1381,470 1408,472 1435,471 1462,471 1489,474 1516,476 1543,477 1570,478 1597,480 1624,480 1624,449 1597,449 1579,401 1541,405 1517,394 1435,394 1371,356 1305,375 1273,384 1246,438 1219,439 1192,439 1177,377 1119,400 1088,427 1038,436"/>
+                <Baseline points="1084,466 1111,462 1138,460 1165,460 1192,460 1219,460 1246,459 1273,458 1300,458 1327,460 1354,460 1381,460 1408,462 1435,461 1462,461 1489,464 1516,466 1543,467 1570,468 1597,470 1624,470"/>
+                <TextEquiv>
+                    <Unicode>fray Miguel del Toro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="1143,556 1245,551 1270,551 1295,552 1321,554 1346,557 1371,559 1397,559 1422,559 1447,562 1472,563 1498,561 1523,561 1548,561 1574,564 1599,565 1624,566 1650,567 1650,534 1652,505 1606,497 1572,480 1523,528 1498,528 1472,530 1447,529 1422,526 1406,464 1346,524 1321,521 1295,519 1256,477 1220,516"/>
+                <Baseline points="1220,538 1245,540 1270,540 1295,541 1321,543 1346,546 1371,548 1397,548 1422,548 1447,551 1472,552 1498,550 1523,550 1548,550 1574,553 1599,554 1624,555 1650,556"/>
+                <TextEquiv>
+                    <Unicode>Altamirano Ministro</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

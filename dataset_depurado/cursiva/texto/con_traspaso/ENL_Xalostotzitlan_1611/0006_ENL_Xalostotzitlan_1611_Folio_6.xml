@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-10-18T21:41:51.627+02:00</Created>
+        <LastChange>2024-10-22T16:42:12.423+02:00</LastChange>
+        <TranskribusMetadata docId="4700894" pageId="80618364" pageNr="6" tsid="195277473" status="IN_PROGRESS" userId="81287" imgUrl="https://files.transkribus.eu/Get?id=AQGUUWHUYVDAECEAPTEDRXGQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KZYZXJMQOGIMKXOZKLWHMGJZ" imageId="66059569"/>
+    </Metadata>
+    <Page imageFilename="0006_ENL_Xalostotzitlan_1611_Folio_6.jpg" imageWidth="154" imageHeight="220"/>
+</PcGts>

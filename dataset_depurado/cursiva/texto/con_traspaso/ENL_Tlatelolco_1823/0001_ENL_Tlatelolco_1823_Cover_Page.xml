@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-10-18T21:40:26.817+02:00</Created>
+        <LastChange>2025-01-22T18:28:20.984+01:00</LastChange>
+        <TranskribusMetadata docId="4701015" pageId="80618359" pageNr="1" tsid="222961391" status="GT" userId="137399" imgUrl="https://files.transkribus.eu/Get?id=CLXZDAFPBVJPJWDYVHTMIDMB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SNBZHBQJQAETZFLOXTBJHAPG" imageId="66059564"/>
+    </Metadata>
+    <Page imageFilename="0001_ENL_Tlatelolco_1823_Cover_Page.jpg" imageWidth="1456" imageHeight="1928">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1754682706202" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="178,78 199,864 738,865 704,77"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="240,196 265,201 279,241 317,205 343,204 369,205 394,206 420,206 446,204 472,203 498,204 500,125 459,115 446,125 420,127 394,127 369,126 343,125 297,82 277,82 259,94 240,117"/>
+                <Baseline points="240,170 265,175 291,179 317,179 343,178 369,179 394,180 420,180 446,178 472,177 563,218 640,176"/>
+                <TextEquiv>
+                    <Unicode>Septiembre 5/823</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="272,348 298,346 324,345 350,346 377,347 403,346 429,346 456,346 482,346 508,348 534,348 561,348 587,348 613,348 640,348 640,269 632,251 587,269 561,269 534,269 508,269 482,267 456,267 428,239 403,267 377,268 350,267 314,251 295,257 272,269"/>
+                <Baseline points="272,322 298,320 324,319 350,320 377,321 403,320 429,320 456,320 482,320 508,322 534,322 561,322 587,322 613,322 640,322"/>
+                <TextEquiv>
+                    <Unicode>San Bartolomè.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="232,520 257,520 282,520 307,522 314,542 340,577 373,511 407,524 432,525 457,526 482,526 507,526 532,526 557,528 582,528 607,529 632,530 657,531 682,534 682,462 657,459 632,458 607,457 582,456 551,421 531,419 492,440 482,454 457,454 432,453 407,452 382,452 357,452 332,452 307,450 276,419 250,424 232,448"/>
+                <Baseline points="232,496 257,496 282,496 307,498 332,500 357,500 382,500 407,500 432,501 457,502 482,502 507,502 532,502 557,504 582,504 607,505 632,506 657,507 682,510"/>
+                <TextEquiv>
+                    <Unicode>Margarita Feliciana</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="350,615 379,613 408,613 437,615 466,615 495,615 524,615 524,569 510,556 466,569 441,562 394,516 367,525 350,569"/>
+                <Baseline points="350,600 379,598 408,598 437,600 466,600 495,600 524,600"/>
+                <TextEquiv>
+                    <Unicode>Viuda de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="252,679 268,686 286,706 297,727 329,679 354,679 380,679 406,679 432,679 457,681 483,681 509,681 534,682 560,683 586,683 612,683 612,637 601,601 560,637 534,636 509,635 490,614 460,616 432,633 406,633 395,615 354,633 329,633 303,633 283,601 237,612"/>
+                <Baseline points="252,664 277,664 303,664 329,664 354,664 380,664 406,664 432,664 457,666 483,666 509,666 534,667 560,668 586,668 612,668"/>
+                <TextEquiv>
+                    <Unicode>Ygnacio Antonio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="284,836 309,836 334,837 359,838 384,837 409,836 435,836 460,838 485,837 510,836 535,836 560,836 586,836 586,757 560,757 535,757 510,757 485,758 460,759 435,757 409,757 384,758 359,759 334,758 309,757 284,757"/>
+                <Baseline points="284,810 309,810 334,811 359,812 384,811 409,810 435,810 460,812 485,811 510,810 535,810 560,810 586,810"/>
+                <TextEquiv>
+                    <Unicode>Misa cantada</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

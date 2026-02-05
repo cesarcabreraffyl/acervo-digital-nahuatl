@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-02-12T20:29:53.888+01:00</Created>
+        <LastChange>2025-02-12T20:29:53.888+01:00</LastChange>
+        <TranskribusMetadata docId="6754167" pageId="91475369" pageNr="6" tsid="228391650" status="NEW" userId="137399" imgUrl="https://files.transkribus.eu/Get?id=QRTQSHKONBQERJYVRQBLQFZN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PREWSKUOLLRKKWCOXRHRLKDW" imageId="76315434"/>
+    </Metadata>
+    <Page imageFilename="0006_AGN_Tierras_vol29_exp5_f23v.jpg" imageWidth="1719" imageHeight="2050"/>
+</PcGts>
