@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.27.0:model_id=366365:lm=none:date=17_07_2025_18:41</Creator>
+        <Created>2025-07-17T02:39:10.252+02:00</Created>
+        <LastChange>2025-08-05T21:06:29.688+02:00</LastChange>
+        <TranskribusMetadata docId="9594235" pageId="100472174" pageNr="1" tsid="252794677" status="GT" userId="137399" imgUrl="https://files.transkribus.eu/Get?id=SXBZAFUCLVJTSNZTMRSPIZPF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GJGDNDCJLOOJPTKZCGTGDZAO" imageId="84309888"/>
+    </Metadata>
+    <Page imageFilename="0001_AGN_HJ_C737_leg210_exp24_f1.jpg" imageWidth="2759" imageHeight="3865">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1754682635353" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="286,88 286,3401 2683,3401 2683,88"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1622,137 1639,137 1654,152 1693,143 1744,185 1783,149 1801,155 1816,140 1863,143 1860,75 1843,78 1831,66 1804,90 1780,81 1732,96 1684,72 1619,75"/>
+                <Baseline points="1638,134 1663,132 1689,131 1715,133 1741,134 1767,134 1793,134 1819,134 1845,134 1871,137"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1380,254 1395,254 1421,233 1439,236 1469,266 1508,248 1517,254 1541,248 1544,110 1523,108 1502,90 1472,108 1433,93 1410,108 1383,99"/>
+                <Baseline points="1396,208 1421,210 1446,210 1472,207 1497,206 1522,207 1548,211"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1729,293 1798,272 1843,278 1860,263 1893,281 1950,272 1974,284 2049,281 2049,173 1983,179 1929,149 1902,155 1854,140 1825,158 1804,146 1762,167 1726,167"/>
+                <Baseline points="1745,262 1770,260 1796,259 1822,259 1848,260 1874,262 1900,262 1926,262 1952,264 1978,265 2004,265 2030,265 2056,265"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2129,334 2144,334 2153,326 2180,328 2189,334 2201,326 2216,326 2201,161 2189,161 2183,170 2168,167 2162,176 2150,173 2117,182"/>
+                <Baseline points="2142,283 2168,288 2194,291 2220,289"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="415,642 624,579 696,615 1003,564 1407,561 1505,606 1654,573 1792,612 2147,555 2228,612 2299,567 2595,567 2598,454 2317,505 2072,466 1869,499 1738,439 1278,490 1123,442 872,523 597,457 418,514"/>
+                <Baseline points="435,596 543,579 651,576 759,573 867,566 976,564 1084,561 1192,558 1300,558 1408,554 1517,552 1625,552 1733,550 1841,546 1949,544 2058,546 2166,549 2274,549 2382,546 2490,546 2599,552"/>
+                <TextEquiv>
+                    <Unicode>• Ynica ytocatzin dios tetatzin dios tepiltzin dios espiritu santo y sacehuel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="475,687 2607,660 2610,564 2565,561 2299,567 2228,612 2120,552 1914,612 1562,573 1490,606 1407,561 478,609"/>
+                <Baseline points="492,659 598,659 704,659 810,656 916,653 1022,653 1128,650 1234,650 1340,650 1446,644 1553,643 1659,641 1765,638 1871,641 1977,641 2083,641 2189,641 2295,638 2401,638 2507,635 2614,638"/>
+                <TextEquiv>
+                    <Unicode>huelnelidios teotl tlatohuani nohuiyan omac canic noneltoquitia ynmoch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="451,750 982,788 1380,738 1508,782 2078,723 2538,750 2592,741 2595,648 2174,648 2108,693 2037,651 1887,684 1702,645 1401,702 1141,660 857,714 761,666 451,696"/>
+                <Baseline points="468,746 574,746 681,746 787,749 894,746 1000,747 1107,743 1213,740 1320,739 1426,734 1533,727 1640,725 1746,728 1853,728 1959,726 2066,725 2172,722 2279,722 2385,721 2492,720 2599,722"/>
+                <TextEquiv>
+                    <Unicode>quimoneltoquitia Yhuan quimopieli yntonantzin Santa ygleçia catholica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="388,863 567,821 761,878 914,824 1189,818 1302,866 1424,821 1926,812 2058,854 2156,824 2243,866 2401,809 2583,827 2583,770 2338,729 2078,779 1622,741 1544,782 1448,738 1036,785 391,732"/>
+                <Baseline points="408,820 522,817 637,817 752,817 866,817 981,817 1096,817 1210,815 1325,817 1440,814 1554,814 1669,813 1784,805 1898,805 2013,802 2128,804 2242,802 2357,805 2472,805 2587,805"/>
+                <TextEquiv>
+                    <Unicode>de roma niquitohua yn nehuatl tlana maa notlaxilacalpa san Laurencio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="487,947 663,899 776,953 899,899 1012,935 1463,899 1532,932 2264,887 2440,938 2589,893 2589,851 2404,809 2246,863 1893,812 1418,824 1314,869 1192,824 911,824 773,878 654,827 487,875"/>
+                <Baseline points="504,904 608,898 713,898 817,898 922,898 1027,895 1131,895 1236,893 1340,895 1445,892 1550,892 1654,886 1759,886 1863,886 1968,883 2073,883 2177,883 2282,883 2386,883 2491,883 2596,880"/>
+                <TextEquiv>
+                    <Unicode>Canotech oquimotlaliliyni Justiciatzin dios cocoliztli y notlaloynosoquio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="475,988 648,1030 896,985 1290,1033 1377,994 1463,1030 1753,988 1908,1033 2061,977 2392,1024 2613,979 2613,899 2550,890 2461,938 2258,890 1977,944 1905,893 1469,941 1254,902 1015,941 902,899 779,953 642,902 478,956"/>
+                <Baseline points="495,984 601,978 707,978 813,978 920,975 1026,981 1132,979 1238,978 1345,975 1451,972 1557,969 1663,968 1770,969 1876,966 1982,968 2088,969 2195,970 2301,969 2407,969 2513,965 2620,964"/>
+                <TextEquiv>
+                    <Unicode>hueletie – auh ynanimantzin aquenca ypaltzinco dios yntlanech monequil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="454,1102 767,1072 842,1126 926,1078 1230,1075 1290,1114 1523,1069 2326,1108 2407,1063 2616,1063 2616,994 2538,982 2458,1027 2055,979 1908,1033 1756,991 1457,1033 1380,991 1305,1033 899,988 630,1027 454,974"/>
+                <Baseline points="471,1071 578,1070 686,1068 793,1068 901,1070 1009,1068 1116,1069 1224,1068 1331,1068 1439,1065 1547,1062 1654,1062 1762,1062 1869,1062 1977,1062 2085,1062 2192,1059 2300,1057 2407,1052 2515,1047 2623,1047"/>
+                <TextEquiv>
+                    <Unicode>tis ynotlatocatzin dios Ca y cenmactzinco nocontlalia y noyolia yn nanima yeica ca</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="448,1203 714,1147 848,1186 935,1150 1568,1183 1744,1138 1822,1177 1860,1141 2595,1162 2595,1057 2359,1108 1971,1075 1843,1108 1738,1069 1314,1114 1108,1078 848,1117 764,1069 448,1108"/>
+                <Baseline points="465,1146 571,1147 678,1143 785,1140 891,1143 998,1144 1105,1144 1211,1143 1318,1143 1425,1143 1532,1140 1638,1135 1745,1134 1852,1137 1958,1137 2065,1137 2172,1141 2278,1140 2385,1137 2492,1130 2599,1128"/>
+                <TextEquiv>
+                    <Unicode>ytlachihualtzin caytlamaquixtiltzin ynocnoqual cacanican nictecpa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="460,1227 597,1215 729,1278 812,1233 935,1278 1135,1239 1296,1263 1371,1218 1490,1278 1765,1230 1857,1275 2622,1251 2622,1168 2541,1141 2455,1183 1974,1141 1816,1177 1741,1141 1562,1183 714,1150 460,1192"/>
+                <Baseline points="477,1217 584,1214 691,1211 799,1212 906,1214 1014,1214 1121,1214 1229,1214 1336,1214 1444,1211 1551,1211 1658,1207 1766,1205 1873,1211 1981,1208 2088,1208 2196,1208 2303,1211 2411,1214 2518,1211 2626,1205"/>
+                <TextEquiv>
+                    <Unicode>na y noteztamento ysatla tzaca ynimaaque huel quixitiniz ynotlanahua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="466,1353 511,1353 520,1344 526,1350 543,1341 615,1368 621,1212 606,1209 570,1224 564,1218 511,1245 472,1245"/>
+                <Baseline points="486,1310 514,1306 542,1304 570,1304 598,1303 626,1301"/>
+                <TextEquiv>
+                    <Unicode>til</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="355,1496 782,1448 1120,1484 1260,1439 1592,1493 1878,1439 2072,1481 2243,1436 2577,1457 2610,1362 2410,1395 2255,1347 1944,1401 1236,1344 1072,1410 827,1362 776,1398 523,1365 355,1401"/>
+                <Baseline points="373,1453 485,1449 597,1444 709,1443 821,1441 933,1438 1045,1435 1157,1435 1269,1438 1381,1438 1493,1438 1605,1438 1717,1438 1829,1437 1941,1435 2053,1435 2165,1438 2277,1435 2389,1435 2501,1432 2614,1432"/>
+                <TextEquiv>
+                    <Unicode>•ynic centlamantli niquitohua yntlao ninomiquili caunca nitocas ynic xitlan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="466,1574 720,1526 935,1586 1063,1547 1197,1574 1296,1523 1362,1559 1550,1526 1630,1586 1693,1523 1831,1571 1884,1523 2016,1568 2165,1526 2225,1562 2601,1550 2601,1463 2559,1439 1956,1481 1881,1439 1607,1493 1362,1445 1114,1484 729,1451 648,1496 579,1460 466,1490"/>
+                <Baseline points="483,1531 589,1525 695,1524 801,1523 908,1522 1014,1518 1120,1516 1226,1516 1333,1516 1439,1519 1545,1516 1651,1516 1758,1519 1864,1516 1970,1516 2076,1519 2183,1521 2289,1519 2395,1519 2501,1521 2608,1522"/>
+                <TextEquiv>
+                    <Unicode>tzinco ynotlasonatzin purificacion= noniquitohua momacatzinos totlaso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="460,1669 1072,1616 1436,1622 1511,1669 1628,1616 1887,1660 2031,1619 2210,1619 2293,1669 2479,1610 2628,1642 2592,1541 2505,1574 2317,1532 2007,1571 1902,1523 1831,1574 1702,1520 1630,1586 1550,1526 1374,1565 1296,1526 920,1595 720,1526 606,1595 460,1574"/>
+                <Baseline points="477,1623 584,1620 692,1617 800,1614 908,1614 1016,1614 1124,1613 1232,1611 1340,1611 1448,1612 1556,1614 1663,1614 1771,1611 1879,1611 1987,1611 2095,1611 2203,1610 2311,1606 2419,1607 2527,1605 2635,1599"/>
+                <TextEquiv>
+                    <Unicode>tatzin Pe prior- 10 tos ycnech maniliqui hui teopantlaca= 6 tos ycmotla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="460,1729 1266,1765 1538,1720 1813,1768 2049,1723 2171,1774 2383,1699 2637,1720 2637,1648 2544,1613 2296,1666 2031,1619 1911,1663 1657,1633 1559,1675 1430,1619 1126,1684 929,1619 702,1678 603,1628 546,1672 460,1660"/>
+                <Baseline points="477,1716 585,1713 693,1710 802,1710 910,1711 1018,1716 1127,1716 1235,1716 1343,1716 1452,1716 1560,1715 1668,1713 1777,1711 1885,1713 1993,1713 2102,1713 2210,1709 2318,1702 2427,1698 2535,1695 2644,1695"/>
+                <TextEquiv>
+                    <Unicode>nehuiy candela 2 tos yc motla nehui y tonba 1 tos= yctlatzinliniz purificacion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="463,1840 591,1801 1012,1837 1442,1798 1619,1840 1714,1798 1771,1846 1983,1798 2341,1848 2431,1807 2625,1819 2625,1729 2553,1708 2488,1747 2395,1696 2168,1774 2043,1717 1813,1768 1622,1723 1266,1765 1045,1729 833,1759 684,1714 463,1750"/>
+                <Baseline points="480,1799 587,1796 694,1796 802,1796 909,1799 1017,1799 1124,1798 1232,1796 1339,1796 1447,1799 1554,1793 1661,1788 1769,1790 1876,1794 1984,1796 2091,1796 2199,1796 2306,1794 2414,1793 2521,1793 2629,1799"/>
+                <TextEquiv>
+                    <Unicode>mo = sala orencion= mo micericordia mo- noniquitohua ninocnoytohua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="445,1938 803,1884 968,1917 1153,1890 1275,1941 1651,1875 2055,1935 2111,1896 2171,1938 2601,1899 2571,1804 2329,1848 2249,1807 2165,1840 1986,1804 1774,1846 1717,1798 1625,1837 1568,1801 1183,1804 1006,1846 818,1798 445,1857"/>
+                <Baseline points="462,1880 569,1874 676,1874 783,1873 891,1871 998,1874 1105,1874 1213,1874 1320,1874 1427,1871 1535,1871 1642,1874 1749,1876 1856,1880 1964,1878 2071,1874 2178,1874 2286,1872 2393,1872 2500,1879 2608,1880"/>
+                <TextEquiv>
+                    <Unicode>yxpantzinco dios caquichihuazque y nopochtzintzinhua yeintin- yetetl mi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="448,2013 502,1998 597,2034 651,2010 678,2022 821,1995 848,2013 881,2007 884,1905 863,1911 803,1881 782,1896 744,1887 669,1929 630,1899 552,1920 523,1902 451,1938"/>
+                <Baseline points="468,1975 494,1968 521,1965 547,1961 574,1958 600,1957 627,1957 653,1957 680,1957 706,1957 733,1958 759,1960 786,1958 812,1958 839,1959 865,1959 892,1957"/>
+                <TextEquiv>
+                    <Unicode>sa tepitzintzin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="385,2213 761,2186 982,2234 1174,2186 1251,2237 1317,2195 1493,2195 1857,2216 1923,2261 2171,2222 2261,2258 2386,2204 2646,2219 2643,2081 2305,2096 2144,2159 1854,2102 1675,2159 1514,2111 1329,2138 1180,2066 1090,2111 944,2075 382,2120"/>
+                <Baseline points="402,2184 514,2186 627,2181 739,2176 852,2175 964,2172 1077,2175 1189,2178 1302,2181 1414,2186 1527,2190 1640,2192 1752,2199 1865,2203 1977,2202 2090,2205 2202,2205 2315,2205 2427,2202 2540,2202 2653,2208"/>
+                <TextEquiv>
+                    <Unicode>•ynic ontlamantli niquitohua y nitech copanochPotzin y acapantli magdalena</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="454,2311 887,2276 985,2329 1165,2276 1499,2332 1559,2287 1807,2293 1908,2338 1995,2302 2571,2332 2646,2299 2646,2216 2577,2213 2314,2213 2201,2261 2111,2219 1747,2255 1493,2195 1251,2237 1150,2186 982,2234 454,2219"/>
+                <Baseline points="471,2271 585,2272 700,2271 815,2268 929,2267 1044,2267 1159,2268 1273,2274 1388,2275 1503,2280 1617,2283 1732,2289 1847,2291 1961,2292 2076,2295 2191,2299 2305,2295 2420,2292 2535,2289 2650,2292"/>
+                <TextEquiv>
+                    <Unicode>domiga canic nomaquilitiuh tetlaltzintli maniquaxochtenco y tech hualaci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="466,2368 570,2362 639,2413 812,2371 944,2419 1060,2353 1257,2362 1341,2410 1415,2365 1696,2416 1881,2374 2470,2428 2631,2404 2631,2317 2219,2293 1962,2347 1807,2293 1684,2332 1565,2287 1499,2332 1120,2276 982,2329 941,2290 663,2273 463,2323"/>
+                <Baseline points="483,2351 590,2351 698,2351 806,2351 914,2351 1021,2351 1129,2349 1237,2351 1345,2354 1452,2356 1560,2360 1668,2364 1776,2369 1883,2372 1991,2377 2099,2381 2207,2386 2314,2387 2422,2387 2530,2387 2638,2387"/>
+                <TextEquiv>
+                    <Unicode>rosas yhua noicquinmotequipanilhuiz y santo ecçeomo yhua teopiltzintli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="433,2505 511,2455 761,2494 929,2437 1108,2517 1197,2458 1254,2485 1350,2446 1616,2514 1783,2458 2207,2520 2640,2485 2637,2425 2329,2428 2147,2380 1971,2416 1523,2365 1347,2410 1257,2362 953,2413 839,2377 430,2395"/>
+                <Baseline points="447,2441 556,2443 666,2441 776,2437 886,2435 996,2432 1106,2432 1215,2432 1325,2433 1435,2435 1545,2440 1655,2441 1765,2442 1875,2450 1984,2454 2094,2458 2204,2463 2314,2465 2424,2465 2534,2462 2644,2459"/>
+                <TextEquiv>
+                    <Unicode>yhua asopcion- oncanquiztias can delatzin popochtzintli xochitzintli yniquac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="442,2577 552,2535 594,2571 669,2583 747,2526 815,2511 863,2547 1012,2526 1015,2455 929,2440 887,2470 836,2440 756,2491 639,2455 511,2458 445,2491"/>
+                <Baseline points="462,2521 489,2521 517,2519 545,2517 573,2515 601,2513 629,2512 657,2512 685,2511 713,2510 741,2510 768,2509 796,2507 824,2505 852,2505 880,2507 908,2506 936,2504 964,2504 992,2504 1020,2504"/>
+                <TextEquiv>
+                    <Unicode>yn tlaso ylhuitzin-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="361,2694 953,2640 1463,2652 1636,2706 1866,2652 2207,2715 2676,2685 2646,2631 2168,2499 2081,2502 1977,2583 1660,2562 1601,2607 1275,2544 1054,2592 579,2562 469,2622 361,2598"/>
+                <Baseline points="379,2659 494,2648 609,2644 724,2641 839,2641 955,2638 1070,2638 1185,2641 1300,2643 1415,2644 1531,2647 1646,2650 1761,2653 1876,2653 1991,2659 2107,2664 2222,2669 2337,2671 2452,2671 2567,2674 2683,2680"/>
+                <TextEquiv>
+                    <Unicode>• ynic yetlam antli niquitohua ynic omemoch potzin ytoca Jua de la Cruz +ca nicnomo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="448,2786 651,2717 1209,2762 1478,2735 1666,2804 1854,2750 1974,2810 2055,2759 2261,2816 2658,2777 2655,2703 2210,2715 1872,2652 1607,2703 1362,2652 606,2649 445,2700"/>
+                <Baseline points="462,2727 572,2718 682,2715 792,2718 902,2718 1012,2718 1122,2718 1233,2721 1343,2721 1453,2724 1563,2730 1673,2730 1783,2735 1893,2736 2004,2737 2114,2742 2224,2742 2334,2748 2444,2748 2554,2750 2665,2754"/>
+                <TextEquiv>
+                    <Unicode>quilitiuh santo tetlaltzintli caltitla manipitza huaca yatica yc quimotequi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="451,2840 618,2801 693,2825 788,2789 947,2807 1024,2849 1093,2813 1197,2828 1197,2744 1123,2729 1084,2756 1018,2729 908,2747 872,2720 612,2720 451,2777"/>
+                <Baseline points="468,2796 504,2791 541,2787 578,2787 615,2785 652,2782 689,2782 725,2784 762,2784 799,2784 836,2784 873,2786 910,2787 947,2788 983,2790 1020,2790 1057,2790 1094,2790 1131,2790 1168,2790 1205,2790"/>
+                <TextEquiv>
+                    <Unicode>panil huiz La concepcion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="642,2879 669,2882 696,2876 699,2882 714,2882 732,2870 753,2873 756,2798 738,2795 693,2822 684,2816 675,2819 669,2813 663,2819 648,2816"/>
+                <Baseline points="662,2868 695,2866 728,2864 761,2862"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="349,3031 502,2927 681,2918 944,2918 1078,2974 1377,2932 1741,2989 1920,2941 2150,2992 2326,2953 2625,2971 2640,2828 2467,2918 2216,2840 1977,2909 1896,2852 1813,2882 1472,2825 1248,2861 1066,2804 1000,2843 842,2795 717,2882 343,2834"/>
+                <Baseline points="364,2921 478,2912 592,2912 706,2912 821,2906 935,2906 1049,2909 1164,2912 1278,2919 1392,2927 1507,2930 1621,2933 1735,2936 1849,2936 1964,2938 2078,2940 2192,2945 2307,2946 2421,2951 2535,2951 2650,2957"/>
+                <TextEquiv>
+                    <Unicode>•ynic mauh otla mantliniquitohua y nitech copa ynic yei nochpotzin ytoca ze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="812,2959 833,2959 848,2968 869,2959 878,2965 884,2959 908,2959 908,2927 890,2930 884,2924 872,2924 857,2915 854,2918 812,2918"/>
+                <Baseline points="829,2951 858,2949 887,2948 916,2948"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="439,3010 1075,3001 1162,3049 1260,3010 1595,3067 1726,3022 1971,3061 2046,3022 2183,3061 2676,3055 2676,2968 2455,2998 2371,2947 2267,2989 1923,2944 1666,2986 1436,2930 1081,2977 953,2941 905,2977 776,2918 439,2965"/>
+                <Baseline points="456,2999 567,2995 678,2990 789,2993 900,2996 1012,2996 1123,2999 1234,3003 1345,3011 1456,3015 1568,3017 1679,3019 1790,3017 1901,3017 2012,3020 2124,3023 2235,3023 2346,3027 2457,3032 2568,3035 2680,3032"/>
+                <TextEquiv>
+                    <Unicode>ronima Franca_ canic macatl tlaltzintliquez quitacatl ypamanime brillo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="421,3097 1162,3088 1487,3162 1589,3097 2613,3145 2610,3052 1726,3022 1645,3067 1487,3064 714,2992 418,3049"/>
+                <Baseline points="438,3080 547,3077 656,3077 765,3078 874,3083 983,3083 1092,3085 1201,3086 1310,3089 1419,3092 1529,3092 1638,3090 1747,3092 1856,3094 1965,3094 2074,3094 2183,3097 2292,3101 2401,3106 2510,3105 2620,3103"/>
+                <TextEquiv>
+                    <Unicode>motenehua tecomolco= yhua sano yquapa manitepitzin sanotetlalinic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="409,3195 711,3207 893,3165 1057,3222 1359,3171 1499,3222 1822,3228 1968,3174 2249,3213 2550,3189 2514,3115 2099,3150 2040,3106 1980,3145 1589,3097 1457,3148 1147,3091 409,3112"/>
+                <Baseline points="426,3163 532,3160 639,3160 745,3160 852,3155 958,3154 1065,3155 1171,3159 1278,3163 1384,3166 1491,3169 1598,3172 1704,3172 1811,3169 1917,3172 2024,3172 2130,3172 2237,3169 2343,3169 2450,3168 2557,3163"/>
+                <TextEquiv>
+                    <Unicode>macanoxhuiuhtzin ytoca micaela ayamoqui Cuiconfirmacion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="269,3324 388,3357 499,3297 902,3288 968,3324 1174,3300 1266,3345 1371,3297 1556,3342 1693,3303 2290,3357 2670,3306 2670,3195 2631,3183 2293,3234 2180,3180 2093,3225 1944,3180 1863,3234 1723,3237 1451,3198 1278,3228 1218,3186 1009,3237 269,3201"/>
+                <Baseline points="286,3283 405,3282 524,3284 644,3285 763,3285 883,3284 1002,3280 1121,3282 1241,3285 1360,3288 1480,3290 1599,3294 1718,3297 1838,3295 1957,3298 2077,3303 2196,3306 2315,3303 2435,3297 2554,3297 2674,3294"/>
+                <TextEquiv>
+                    <Unicode>• ynic 5 tlamantli niquitohua ynitechcopanoxhuiuhtzin Juo Pasqual canic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="436,3395 690,3413 764,3374 1054,3419 1218,3380 1320,3440 1392,3395 1493,3443 1702,3440 1768,3392 1887,3425 1998,3377 2276,3389 2395,3440 2652,3398 2652,3312 2601,3306 2290,3357 1869,3306 1810,3336 1633,3303 1562,3345 1350,3294 1272,3345 902,3291 436,3321"/>
+                <Baseline points="453,3369 563,3366 673,3366 783,3370 894,3375 1004,3372 1114,3372 1225,3373 1335,3375 1445,3375 1556,3375 1666,3372 1776,3369 1886,3369 1997,3370 2107,3375 2217,3378 2328,3381 2438,3380 2548,3378 2659,3375"/>
+                <TextEquiv>
+                    <Unicode>macatepan caltontlitonatiuh ycalaquiyanpaitzticac canech motoquiliz_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
